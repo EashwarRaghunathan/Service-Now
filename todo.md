@@ -1,4 +1,4 @@
-#Requesting help from conritbuters
+#Requesting help from contributors
 add work_notes or additional commants to the insident sent .
 
 
