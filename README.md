@@ -1,6 +1,6 @@
 Service-Now  send insident to service now from command line  - Eashwar Raghunathan
 ===========
-#USAGE ssh or windows
+#USAGE ssh or windows bash
 
 ./snowsendinsident.py "$sysparm_action" "$category" "$impact" "$urgency" "$caller_id" "$cmdb_ci" "$short_description"
 
