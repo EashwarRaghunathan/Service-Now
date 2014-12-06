@@ -1,4 +1,5 @@
 # ./snowsendinsident.py "$sysparm_action" "$category" "$impact" "$urgency" "$caller_id" "$cmdb_ci" "$short_description"  << usage
+# Edite URL paramater, UserName and Password below
 import sys
 import urllib2
 import json
