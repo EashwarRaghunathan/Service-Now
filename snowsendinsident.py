@@ -14,7 +14,6 @@ payload = {
    "caller_id":sys.argv[5],
    "cmdb_ci":sys.argv[6],
    "short_description":sys.argv[7]
-   "work_notes":sys.argv[7]
 }
 
 
