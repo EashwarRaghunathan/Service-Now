@@ -6,4 +6,6 @@ Service-Now
 # ./snowsendinsident.py 'insert' 'software' 1 1 'Abel Tuter' 'Email' 'new incident from eashwar'
 ############################################################################# example usage
 
+./snowsendinsident.py 'insert' 'software' 1 1 'Abel Tuter' 'Email' 'new incident from eashwar'
+
 
