@@ -4,7 +4,7 @@ import urllib2
 import json
 from requests.auth import HTTPBasicAuth
 import requests
-# This py file is a stand-alone integration, it directly works with Splunk
+# This py file is a stand-alone integration, it directly works with SHH or BASH CALLS
 payload = {
    "sysparm_action":sys.argv[1],
    "category":sys.argv[2],
