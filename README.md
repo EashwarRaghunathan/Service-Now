@@ -1,4 +1,4 @@
-Service-Now  send insident to service now from command line  - Eashwar Raghunathan
+Service-Now  send an insident to service now from command line
 ===========
 #USAGE ssh or windows bash
 
