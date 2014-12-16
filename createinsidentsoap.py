@@ -6,11 +6,11 @@ import sys
 def createincident(params_dict):
 
         # instance to send to
-        instance='autodesksb'
+        instance='xxxxxx'
 
         # username/password
-        username='ZENOSS'
-        password='ZENOSS'
+        username='xxxxx'
+        password='xxxxxx'
 
 
         # proxy - NOTE: ALWAYS use https://INSTANCE.service-now.com, not https://www.service-now.com/INSTANCE for web services URL from now on!
